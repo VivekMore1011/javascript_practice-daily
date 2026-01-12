@@ -9,5 +9,15 @@
 
 // var number1=10;
 // var number2=20;
-// console.log(number1+number2);
+// console.log(number1+n
+function num(rasna){
+    if(rasna>18){
+        console.log("do drink the rasna");
 
+    }
+    else{
+        console.log("Do not drink the rasna")
+    }
+}
+c2=num(2);
+console.log(c2);
